@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 <!--
 **jaclyn-taroni/jaclyn-taroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am the Director of the [Childhood Cancer Data Lab](https://www.ccdatalab.org/) at [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/) ([@AlexsLemonade](https://github.com/AlexsLemonade/)).
