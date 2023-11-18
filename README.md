@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I am the Director of the [Childhood Cancer Data Lab](https://www.ccdatalab.org/) at [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/) ([@AlexsLemonade](https://github.com/AlexsLemonade/)).
-
